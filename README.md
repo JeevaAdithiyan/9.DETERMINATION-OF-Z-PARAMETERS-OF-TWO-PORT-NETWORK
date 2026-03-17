@@ -30,11 +30,14 @@ Here Z11& Z22 are the input & output driving point impedances while Z12& Z21 are
 
 **CIRCUIT DIAGRAM:**
 
+<img width="814" height="1280" alt="image" src="https://github.com/user-attachments/assets/3255a9a7-836c-4f82-b820-89fc72a9dd38" />
 
 
 **TABULATION:**
 
+<img width="791" height="1280" alt="image" src="https://github.com/user-attachments/assets/758f6d16-8169-48ba-91a6-db67260c1110" />
 
+<img width="892" height="1280" alt="image" src="https://github.com/user-attachments/assets/b2a21eb8-14b2-4bd2-8713-d5a3b818e1bf" />
 
 
 
@@ -49,7 +52,9 @@ e)	Switch ‘OFF’ the supply after taking thereadings.
 
 **Mark split up:**
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/66096fc7-31ee-48e7-b5c5-88fc15ef2214" />
 
 **RESULT:**
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/8c14c1c7-b47a-455a-9e41-aa1dd833ef28" />
 
 The Z-parameters of the two port network has been calculated and verified by using Multisim Simulator.
